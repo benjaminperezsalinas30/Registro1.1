@@ -1,0 +1,13 @@
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\bin\Debug\Registro1.exe.config
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\bin\Debug\Registro1.exe
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\bin\Debug\Registro1.pdb
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.csproj.AssemblyReference.cache
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.De_6_a_7pm_Niños_.resources
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.Form1.resources
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.Form2.resources
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.Form3.resources
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.Properties.Resources.resources
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.csproj.GenerateResource.cache
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.csproj.CoreCompileInputs.cache
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.exe
+C:\Users\Gamer Store\Desktop\Benjamin 2024\BENJAMIN 2020\c# Proyect\Registro1\Registro1\obj\Debug\Registro1.pdb
